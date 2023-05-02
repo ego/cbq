@@ -41,9 +41,9 @@ Start working as ML/AI scientist:
 	uvicorn app:app --reload
 
 
-[API URL](http://127.0.0.1:8000)
-[DOCS URL](http://127.0.0.1:8000/docs)
-[GitHub Pages](http://ego.systemdef.com/cbq/)
+* [API URL](http://127.0.0.1:8000)
+* [DOCS URL](http://127.0.0.1:8000/docs)
+* [GitHub Pages](http://ego.systemdef.com/cbq/)
 
 
 ## Directory structure
