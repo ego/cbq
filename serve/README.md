@@ -12,6 +12,14 @@ HTTP API for serving predictions.
 
     pipenv install --dev
     pipenv shell
+    uvicorn app:app --reload
+
+
+API URL
+
+    http://127.0.0.1:8000
+    http://127.0.0.1:8000/docs
+
 
 ## Test
 
@@ -27,3 +35,16 @@ HTTP API for serving predictions.
         │   ├── input.json    <- Test input data
         │   └── output.json   <- Test output data
         └── test_app.py       <- Integration tests for the HTTP API
+
+
+## Tools
+
+    pipenv upgrade
+    pipenv update --dev
+    pipenv lock
+
+    pipenv run beautify
+    pipenv run lint
+
+    source $(pipenv --venv)/bin/activate
+    `exit` or CTRL-d to exit the current subshell

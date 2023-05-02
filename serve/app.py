@@ -3,6 +3,6 @@ from fastapi import FastAPI
 app = FastAPI()
 
 
-@app.post("/")
+@app.get("/")
 async def root():
-    raise NotImplementedError
+    return {"message": "Hello World"}
