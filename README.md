@@ -44,6 +44,10 @@ API URL
 
     http://127.0.0.1:8000
 
+GitHub Pages
+
+	http://ego.systemdef.com/cbq/
+
 
 ## Directory structure
 
@@ -99,8 +103,6 @@ This is our your new project will look like:
             │   └── output.json   <- Test output data
             └── test_app.py       <- Integration tests for the HTTP API
 
-
-Links
 
 [Cookiecutter]: https://github.com/audreyr/cookiecutter
 [Pipenv]: https://pipenv.pypa.io/en/latest/
