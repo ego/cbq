@@ -133,3 +133,6 @@ dmypy.json
 
 # Dask
 dask-worker-space
+
+.idea
+*.iml
