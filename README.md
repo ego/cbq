@@ -1,6 +1,7 @@
-# cbq
+# American Sign Language Recognition System 
 
-[Project American Sign Language Recognition System (CBQ). Open source AI hackathon](https://lablab.ai/event/open-source-ai-hackathon/codebasequestions-cbq?channelId=1102943325432061963)
+[Open source AI hackathon](https://lablab.ai/event/open-source-ai-hackathon/codebasequestions-cbq?channelId=1102943325432061963)
+
 [Team Discord Channel](https://discord.com/channels/1068148026708860969/1102943325432061963)
 
 A technology that will give the opportunity for people to communicate easily in their own language between one and other with more privacy and easier access.
