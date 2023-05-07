@@ -41,10 +41,11 @@ Start working as ML/AI scientist:
 	cd serve
 	pipenv shell
 	pipenv install --dev
-	uvicorn app:app --reload
+	pipenv run uvicorn app:app --reload
 
 
-* [Local API URL](http://127.0.0.1:8000)
+* [Gradio frontend URL](http://127.0.0.1:8000)
+* [Local API URL](http://127.0.0.1:8000/api)
 * [Local DOCS URL](http://127.0.0.1:8000/docs)
 * [Public GitHub Pages](http://ego.systemdef.com/cbq/)
 

@@ -11,6 +11,7 @@ pylint = "*"
 
 [packages]
 fastapi = "*"
+gradio = "*"
 
 [requires]
 python_version = "3"

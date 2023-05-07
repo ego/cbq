@@ -12,7 +12,7 @@ HTTP API for serving predictions.
 
     pipenv install --dev
     pipenv shell
-    uvicorn app:app --reload
+    pipenv run uvicorn app:app --reload
 
 
 API URL
